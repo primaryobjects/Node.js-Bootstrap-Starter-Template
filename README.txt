@@ -3,7 +3,7 @@ Node.js Bootstrap Starter Template
 A quick and easy Node.js + Jade template project, using Twitter Bootstrap.
 
 Demo:
-http://nodebootstraper.herokuapp.com
+http://nodebootstrapper.herokuapp.com
 
 Contents:
 
