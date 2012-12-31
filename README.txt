@@ -22,3 +22,6 @@ block content
 	div.container
 		h1 Program Name
 		p Hello World
+
+Author
+Kory Becker http://www.primaryobjects.com
