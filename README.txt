@@ -14,7 +14,8 @@ index.jade
 
 Quick Start:
 
-Just start editing index.jade to add your content. The default contents include:
+Open a command prompt and type: npm install
+Next, edit index.jade to add your content. The default contents include:
 
 extends layout
 
