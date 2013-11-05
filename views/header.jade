@@ -1,17 +1,18 @@
-div.navbar.navbar-inverse.navbar-fixed-top
-    div.navbar-inner
-        div.container
-            a.btn.btn-navbar(data-toggle="collapse", data-target=".nav-collapse")
+header.navbar.navbar-default.navbar-fixed-top.navbar-inverse(role='navigation')
+    div.container
+        div.navbar-header
+            button.navbar-toggle(type='button', data-toggle='collapse', data-target='#navbar-1')
+                span.sr-only Toggle navigation
                 span.icon-bar
                 span.icon-bar
                 span.icon-bar
-            a.brand(href="#")
+            a.navbar-brand(href='#')
                 | Program Name
-            div.nav-collapse.collapse
-                ul.nav
-                    li.active
-                        a(href="#") Home
-                    li
-                        a(href="#about") About
-                    li
-                        a(href="#contact") Contact
+        div.collapse.navbar-collapse(id='navbar-1')
+            ul.nav.navbar-nav
+                li.active
+                    a(href='#') Home
+                li
+                    a(href='#about') About
+                li
+                    a(href='#contact') Contact
