@@ -5,6 +5,11 @@ A quick and easy Node.js + Jade template project, using Twitter Bootstrap.
 Demo:
 http://nodebootstrapper.herokuapp.com
 
+Modules required:
+express
+jade
+stylus
+
 Contents:
 
 layout.jade
