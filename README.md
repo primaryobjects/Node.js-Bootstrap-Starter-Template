@@ -5,7 +5,8 @@ A quick and easy Node.js + Jade template project, using Twitter Bootstrap.
 
 ##Usage
 - Clone repository.
-- Open a command prompt and type: npm install
+- Open a command prompt, navigate to the folder, and enter: npm install
+- Next, run the app by entering: node app
 - Browse to http://localhost:3000
 
 ##Demo:
