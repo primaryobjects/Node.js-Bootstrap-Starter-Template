@@ -1,6 +1,6 @@
 {
   "name": "nodebootstraper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "express": "*",
     "jade": "*",
@@ -11,7 +11,7 @@
 	"method-override": "*"
   },
   "engines": {
-    "node": "0.10.30",
-    "npm": "1.4.x"
+    "node": "*",
+    "npm": "*"
   }
 }
