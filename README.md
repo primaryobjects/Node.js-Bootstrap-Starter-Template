@@ -35,4 +35,4 @@ block content
 ```
 
 ##Author
-Kory Becker http://www.primaryobjects.com/kory-becker.aspx
+Kory Becker http://www.primaryobjects.com/kory-becker
