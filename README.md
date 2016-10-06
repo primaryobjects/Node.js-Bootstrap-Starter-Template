@@ -3,6 +3,8 @@ Node.js Bootstrap Starter Template
 
 A quick and easy Node.js + Jade template project, using Twitter Bootstrap.
 
+Also available for [Material](https://github.com/primaryobjects/Node.js-Material-Starter-Template).
+
 ##Usage
 - Clone repository.
 - Open a command prompt, navigate to the folder, and enter: npm install
