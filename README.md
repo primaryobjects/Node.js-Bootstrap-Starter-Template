@@ -1,7 +1,7 @@
 Node.js Bootstrap Starter Template
 ===
 
-A quick and easy Node.js + Jade template project, using Twitter Bootstrap.
+A quick and easy Node.js + Pug template project, using Twitter Bootstrap.
 
 Also available for [Material](https://github.com/primaryobjects/Node.js-Material-Starter-Template).
 
@@ -16,14 +16,14 @@ http://nodebootstrapper.herokuapp.com
 
 ##Contents:
 
-layout.jade
-header.jade
-footer.jade
-index.jade
+layout.pug
+header.pug
+footer.pug
+index.pug
 
 ##Editing Pages:
 
-Edit views/index.jade to add your content. The default contents include:
+Edit views/index.pug to add your content. The default contents include:
 
 ```
 extends layout
