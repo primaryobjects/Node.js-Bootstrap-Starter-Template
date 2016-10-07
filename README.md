@@ -5,23 +5,23 @@ A quick and easy Node.js + Jade template project, using Twitter Bootstrap.
 
 Also available for [Material](https://github.com/primaryobjects/Node.js-Material-Starter-Template).
 
-##Usage
+## Usage
 - Clone repository.
 - Open a command prompt, navigate to the folder, and enter: npm install
 - Next, run the app by entering: node app
 - Browse to http://localhost:3000
 
-##Demo:
+## Demo:
 http://nodebootstrapper.herokuapp.com
 
-##Contents:
+## Contents:
 
-layout.jade
-header.jade
-footer.jade
-index.jade
+- layout.jade
+- header.jade
+- footer.jade
+- index.jade
 
-##Editing Pages:
+## Editing Pages:
 
 Edit views/index.jade to add your content. The default contents include:
 
@@ -34,5 +34,5 @@ block content
 		p Hello World
 ```
 
-##Author
+## Author
 Kory Becker http://www.primaryobjects.com/kory-becker
