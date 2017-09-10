@@ -1,6 +1,6 @@
 {
   "name": "nodebootstraper",
-  "version": "0.0.3",
+  "version": "3.3.7",
   "dependencies": {
     "express": "*",
     "jade": "*",
