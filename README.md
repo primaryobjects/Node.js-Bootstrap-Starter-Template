@@ -5,6 +5,8 @@ A quick and easy Node.js + [Express](https://expressjs.com) + [Pug](https://www.
 
 Also available for [Material](https://github.com/primaryobjects/Node.js-Material-Starter-Template) and [React 4](https://github.com/primaryobjects/Node.js-React-Starter-Template)
 
+![Node.js Bootstrap starter template screenshot.](screenshot.png)
+
 ## Usage
 - Clone repository.
 - Open a command prompt, navigate to the folder, and enter: npm install
