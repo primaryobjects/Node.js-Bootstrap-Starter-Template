@@ -1,7 +1,7 @@
 Node.js Bootstrap Starter Template
 ===
 
-A quick and easy Node.js + [Express](https://expressjs.com) + [Pug](https://www.npmjs.com/package/pug) + Twitter [Bootstrap](https://getbootstrap.com) 5.0 template project.
+A quick and easy Node.js + [Express](https://expressjs.com) + [Pug](https://www.npmjs.com/package/pug) + Twitter [Bootstrap](https://getbootstrap.com) 5.3 template project.
 
 Also available for [Material](https://github.com/primaryobjects/Node.js-Material-Starter-Template) and [React](https://github.com/primaryobjects/Node.js-React-Starter-Template).
 
